@@ -5,10 +5,10 @@
   "license": "ISC",
   "author": "Md. Kamran Alam",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
